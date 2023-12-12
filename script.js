@@ -10,37 +10,37 @@ const teamMember = [
         name: 'Wayne Barnett',
         role: 'Founder & CEO',
         /* image: 'wayne-barnett-founder-ceo.jpg' */
-        image: 'https://fastly.picsum.photos/id/5/5000/3334.jpg?hmac=R_jZuyT1jbcfBlpKFxAb0Q3lof9oJ0kREaxsYV3MgCc'
+        image: './img/wayne-barnett-founder-ceo.jpg'
     },
     {
         name: 'Angela Caroll',
         role: 'Chief Editor',
         /* image: 'angela-caroll-chief-editor.jpg' */
-        image: 'https://fastly.picsum.photos/id/20/3670/2462.jpg?hmac=CmQ0ln-k5ZqkdtLvVO23LjVAEabZQx2wOaT4pyeG10I'
+        image: './img/angela-caroll-chief-editor.jpg'
     },
     {
         name: 'Walter Gordon',
         role: 'Office Manager',
         /* image: 'walter-gordon-office-manager.jpg' */
-        image: 'https://fastly.picsum.photos/id/36/4179/2790.jpg?hmac=OCuYYm0PkDCMwxWhrtoSefG5UDir4O0XCcR2x-aSPjs'
+        image: './img/walter-gordon-office-manager.jpg'
     },
     {
         name: 'Angela Lopez',
         role: 'Social Media Manager',
         /* image: 'angela-lopez-social-media-manager.jpg' */
-        image: 'https://fastly.picsum.photos/id/91/3504/2336.jpg?hmac=tK6z7RReLgUlCuf4flDKeg57o6CUAbgklgLsGL0UowU'
+        image: './img/angela-lopez-social-media-manager.jpg'
     },
     {
         name: 'Scott Estrada',
         role: 'Developer',
         /* image: 'scott-estrada-developer.jpg' */
-        image: 'https://fastly.picsum.photos/id/48/5000/3333.jpg?hmac=y3_1VDNbhii0vM_FN6wxMlvK27vFefflbUSH06z98so'
+        image: './img/scott-estrada-developer.jpg'
     },
     {
         name: 'Barbara Ramos',
         role: 'Graphic Designer',
         /* image: 'barbara-ramos-graphic-designer.jpg' */
-        image: 'https://fastly.picsum.photos/id/435/1200/800.jpg?hmac=NRHmYJ-8T18f_jUu_zGUaS4pmJJW2baw-isXTEPVt7U'
+        image: './img/barbara-ramos-graphic-designer.jpg'
     }
 ]
 
